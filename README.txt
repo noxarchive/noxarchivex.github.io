@@ -1,4 +1,4 @@
-# SOSYOPAT tarzı kişisel profil sitesi
+# NOX tarzı kişisel profil sitesi
 
 1. `index.html` dosyasını açarak siteyi bilgisayarında test edebilirsin.
 2. `index.html` içindeki isim, kullanıcı adları ve linkleri değiştir.
